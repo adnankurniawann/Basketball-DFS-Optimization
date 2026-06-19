@@ -22,10 +22,10 @@ Modern basketball heavily relies on strategic passing to dismantle elite defensi
 
 **For Scenario 1 (Baseline Offense):**
 ```bash
-python simulasi_basket.py
+python src/simulasi_basket.py
 ```
 **For Scenario 2 (Elite Interior Defense):**
 ```bash
-python simulasi_basket2.py
+python src/imulasi_basket2.py
 ```
 The terminal will output the optimal passing route and its cumulative success probability for each scenario.
