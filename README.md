@@ -20,7 +20,17 @@ Modern basketball heavily relies on strategic passing to dismantle elite defensi
 
 ## 🚀 How to Run
 1. Ensure you have Python 3.x installed.
-2. Clone this repository or download the `.py` file.
-3. Run the script via terminal or command prompt:
+2. Clone this repository or download the `.py` files.
+3. Run the scripts via terminal or command prompt:
+   
+   - **For Scenario 1 (Baseline Offense):**
 ```bash
-   python nama_file_kamu.py
+     python simulasi_basket.py
+     ```
+
+- **For Scenario 2 (Elite Interior Defense):**
+```bash
+     python simulasi_basket2.py
+     ```
+
+4. The terminal will output the optimal passing route and its cumulative success probability for each scenario.
