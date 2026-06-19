@@ -23,12 +23,11 @@ Modern basketball heavily relies on strategic passing to dismantle elite defensi
 2. Clone this repository or download the `.py` files.
 3. Run the scripts via terminal or command prompt:
    
-   - **For Scenario 1 (Baseline Offense):**
+**For Scenario 1 (Baseline Offense):**
 ```bash
      python simulasi_basket.py
-     ```
 
-- **For Scenario 2 (Elite Interior Defense):**
+**For Scenario 2 (Elite Interior Defense):**
 ```bash
      python simulasi_basket2.py
      ```
