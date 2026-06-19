@@ -1,6 +1,3 @@
-# Basketball-DFS-Optimization
-Python simulation using Depth-First Search (DFS) and directed graphs to optimize offensive passing sequences in basketball. Final Project for IF1220 Discrete Mathematics.
-
 # Basketball Offensive Passing Optimization using DFS 🏀
 
 This repository contains the Python simulation code for the paper: **"Algorithmic Pathfinding and Directed Graphs for Optimizing Offensive Passing Sequences in Basketball Strategy"**.
@@ -21,15 +18,14 @@ Modern basketball heavily relies on strategic passing to dismantle elite defensi
 ## 🚀 How to Run
 1. Ensure you have Python 3.x installed.
 2. Clone this repository or download the `.py` files.
-3. Run the scripts via terminal or command prompt:
-   
+3. Run the scripts via terminal or command prompt.
+
 **For Scenario 1 (Baseline Offense):**
 ```bash
-     python simulasi_basket.py
-
+python simulasi_basket.py
+```
 **For Scenario 2 (Elite Interior Defense):**
 ```bash
-     python simulasi_basket2.py
-     ```
-
-4. The terminal will output the optimal passing route and its cumulative success probability for each scenario.
+python simulasi_basket2.py
+```
+The terminal will output the optimal passing route and its cumulative success probability for each scenario.
